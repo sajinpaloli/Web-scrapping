@@ -7,7 +7,7 @@
 </head>
 <body>
 
-<h1>Dow Jones Industrial Average Data Analysis</h1>
+<h1>Web Scrapping</h1>
 
 <p>This project involves extracting and processing data related to the Dow Jones Industrial Average (DJIA) from Wikipedia and Yahoo Finance. The code is written in Python and uses libraries such as <code>pandas</code>, <code>yfinance</code>, and <code>unicodedata</code>. The end goal is to retrieve historical stock prices for the DJIA constituents and the DJIA index itself, and save the data to CSV files.</p>
 
